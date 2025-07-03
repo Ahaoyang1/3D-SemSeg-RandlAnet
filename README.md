@@ -84,7 +84,6 @@ Evaluate predictions on the validation set:
 python3 data_val.py --result_dir result/val_08
 ```
 
-Optional: you can visualize `.label` predictions using tools from [SemanticKITTI devkit](http://semantic-kitti.org/).
 
 ---
 
