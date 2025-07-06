@@ -76,16 +76,6 @@ python3 test.py   --checkpoint_path log_train/checkpoint.tar   --test_id 08   --
 
 ---
 
-## 📊 D. Evaluation & Visualization
-
-Evaluate predictions on the validation set:
-
-```bash
-python3 data_val.py --result_dir result/val_08
-```
-
-
----
 
 ## 📁 Project Structure
 
